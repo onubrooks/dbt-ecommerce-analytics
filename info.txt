@@ -1,0 +1,1 @@
+project repository with instructions can be found at: https://github.com/AbisoyeAbidakun/dbt-mini-ecommerce
