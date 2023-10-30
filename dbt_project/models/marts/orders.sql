@@ -1,3 +1,9 @@
+{{
+	config(
+		tags = 'sales',
+	)
+}}
+
 WITH
 
   order_items_metrics AS (

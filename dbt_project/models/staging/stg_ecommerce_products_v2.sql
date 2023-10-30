@@ -1,3 +1,9 @@
+{{
+	  config(
+		tags = 'daily',
+		)
+	}}
+
 WITH source AS (
 	SELECT *
 
