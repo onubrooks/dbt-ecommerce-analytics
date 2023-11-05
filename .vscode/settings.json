@@ -1,4 +1,12 @@
 {
     "dbt.enableNewLineagePanel": true,
-    "dbt.queryLimit": 500
+    "dbt.queryLimit": 500,
+    "dbt.allowListFolders": [
+        "dbt_project"
+    ],
+    "diffEditor.codeLens": true,
+    "[jinja-sql]": {
+        "editor.defaultFormatter": "innoverio.vscode-dbt-power-user",
+        "editor.formatOnSave": true
+    },
 }
